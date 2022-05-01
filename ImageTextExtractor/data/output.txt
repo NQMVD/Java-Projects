@@ -1,0 +1,6 @@
+void TriangulateSquare(Square square) {
+
+y;
+
+void MeshFromPoints[lparams Node[] points) {
+. 1
